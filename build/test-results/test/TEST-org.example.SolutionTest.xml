@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.SolutionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-05-20T18:26:13" hostname="DESKTOP-F2NUORL" time="0.017">
+  <properties/>
+  <testcase name="Test1()" classname="org.example.SolutionTest" time="0.014"/>
+  <testcase name="Test2()" classname="org.example.SolutionTest" time="0.001"/>
+  <testcase name="Test3()" classname="org.example.SolutionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
